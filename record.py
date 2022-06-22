@@ -13,7 +13,7 @@ mydb = mysql.connector.connect(
 # print(mydb)
 sql = mydb.cursor()
 
-API_TOKEN = '5402671356:AAGrDlgqR0cjw7d5p8qY4XYiUGMXGalf0PI'
+API_TOKEN = 'API DARI BOTFATHER TELEGRAM'
 
 bot = telebot.TeleBot(API_TOKEN)
 
